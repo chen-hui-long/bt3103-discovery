@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>NO.1 ZI CHAR SG</h1>
+    <h1>NO.1 ZI CHAR SG testingg</h1>
     <div id = "nav">
       <router-link to ="/" exact id = "home">Home</router-link>
       <router-link to ="/orders" exact id ="Orders">Orders</router-link>
